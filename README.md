@@ -1,2 +1,5 @@
-# flick-tactics-play
-Flick Tactics playtest build (built files only)
+# Flick Tactics (playtest build)
+
+Play: https://patricktys2905.github.io/flick-tactics-play/
+
+Built files only; the source is private.
